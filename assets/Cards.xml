@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href=""?>
+<deck>
+  <card front="🂡" back="🂠">A♠︎</card>
+  <card front="🂢" back="🂠">2♠︎</card>
+  <card front="🂣" back="🂠">3♠︎</card>
+  <card front="🂤" back="🂠">4♠︎</card>
+  <card front="🂥" back="🂠">5♠︎</card>
+  <card front="🂦" back="🂠">6♠︎</card>
+  <card front="🂧" back="🂠">7♠︎</card>
+  <card front="🂨" back="🂠">8♠︎</card>
+  <card front="🂩" back="🂠">9♠︎</card>
+  <card front="🂪" back="🂠">10♠︎</card>
+  <card front="🂫" back="🂠">J♠︎</card>
+  <card front="🂭" back="🂠">Q♠︎</card>
+  <card front="🂮" back="🂠">K♠︎</card>
+  <card front="🃑" back="🂠">A♣︎</card>
+  <card front="🃒" back="🂠">2♣︎</card>
+  <card front="🃓" back="🂠">3♣︎</card>
+  <card front="🃔" back="🂠">4♣︎</card>
+  <card front="🃕" back="🂠">5♣︎</card>
+  <card front="🃖" back="🂠">6♣︎</card>
+  <card front="🃗" back="🂠">7♣︎</card>
+  <card front="🃘" back="🂠">8♣︎</card>
+  <card front="🃙" back="🂠">9♣︎</card>
+  <card front="🃚" back="🂠">10♣︎</card>
+  <card front="🃛" back="🂠">J♣︎</card>
+  <card front="🃝" back="🂠">Q♣︎</card>
+  <card front="🃞" back="🂠">K♣︎</card>
+  <card front="🃁" back="🂠">A♦︎</card>
+  <card front="🃂" back="🂠">2♦︎</card>
+  <card front="🃃" back="🂠">3♦︎</card>
+  <card front="🃄" back="🂠">4♦︎</card>
+  <card front="🃅" back="🂠">5♦︎</card>
+  <card front="🃆" back="🂠">6♦︎</card>
+  <card front="🃇" back="🂠">7♦︎</card>
+  <card front="🃈" back="🂠">8♦︎</card>
+  <card front="🃉" back="🂠">9♦︎</card>
+  <card front="🃊" back="🂠">10♦︎</card>
+  <card front="🃋" back="🂠">J♦︎</card>
+  <card front="🃍" back="🂠">Q♦︎</card>
+  <card front="🃎" back="🂠">K♦︎</card>
+  <card front="🂱" back="🂠">A♥︎</card>
+  <card front="🂲" back="🂠">2♥︎</card>
+  <card front="🂳" back="🂠">3♥︎</card>
+  <card front="🂴" back="🂠">4♥︎</card>
+  <card front="🂵" back="🂠">5♥︎</card>
+  <card front="🂶" back="🂠">6♥︎</card>
+  <card front="🂷" back="🂠">7♥︎</card>
+  <card front="🂸" back="🂠">8♥︎</card>
+  <card front="🂹" back="🂠">9♥︎</card>
+  <card front="🂺" back="🂠">10♥︎</card>
+  <card front="🂻" back="🂠">J♥︎</card>
+  <card front="🂽" back="🂠">Q♥︎</card>
+  <card front="🂾" back="🂠">K♥︎</card>
+  <card front="🃟" back="🂠">JB</card>
+  <card front="🃟" back="🂠">JR</card>
+</deck>
